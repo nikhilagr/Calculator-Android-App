@@ -2,5 +2,5 @@
 
 This is Basic Calculator android app.
 
-<!--<img src="http://g.recordit.co/RQbbwzErgx.gif" width=250>
+<img src="http://g.recordit.co/RQbbwzErgx.gif" width=250>
 
